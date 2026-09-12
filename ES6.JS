@@ -12,3 +12,4 @@ console.log(role);
 //set objects 
 // this two are the new data structures in ES6.
 // this two are the new data structures in ES6.
+//lazyday
