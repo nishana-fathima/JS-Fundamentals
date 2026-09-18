@@ -16,3 +16,4 @@ console.log(role);
 //lazyday 2 
 //collection performance
 //postman setup
+//cxo-customer-kpi cards detail page
