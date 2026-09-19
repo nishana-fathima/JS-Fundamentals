@@ -17,3 +17,4 @@ console.log(role);
 //collection performance
 //postman setup
 //cxo-customer-kpi cards detail page
+//cxo-customer-delivery-detail page and helpfile
