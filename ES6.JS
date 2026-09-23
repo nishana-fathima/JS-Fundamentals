@@ -19,3 +19,4 @@ console.log(role);
 //cxo-customer-kpi cards detail page
 //cxo-customer-delivery-detail page and helpfile
 //cx-customer-each-widget-detail page 
+//canva
