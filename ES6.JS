@@ -20,3 +20,4 @@ console.log(role);
 //cxo-customer-delivery-detail page and helpfile
 //cx-customer-each-widget-detail page 
 //canva
+//helpfilechanges
